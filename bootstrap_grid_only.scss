@@ -1,0 +1,9 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+@import "scss/_variables";
+@import "scss/_clearfix";
+@import "scss/_grids";
+@import "scss/_grid-framework";
+@import "scss/_grid";
